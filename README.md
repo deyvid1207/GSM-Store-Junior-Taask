@@ -5,10 +5,15 @@ The application simulates a mobile accessories online store where users can brow
 
 # Features
 Catalog System - Category based product structure, Responsive Product grid layout
+
 Filtering - Filter by color, Filter by maximum price (range slider), Filter products that are on discount only, Mobile collapsible filter panel
+
 Sorting - Default, A–Z, Z–A, Price: Low to High, Price: High to Low
+
 Product Card - Discount logic with old/new price display, Dynamic star rating system, Hover animation, Add to cart button (UI simulation with an alert), Border added to placeholder image for simulation purposes
+
 Slider - Responsive banner slider - Dot navigation - Smooth transition animation (4 sec per slide), Placeholder images for better visualisation,
+
 Layout - Sticky responsive header, Centered category navigation, Responsive footer, Fully responsive layout (desktop, tablet, mobile)
 
 # Technology Stack
